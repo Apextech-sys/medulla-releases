@@ -15,4 +15,4 @@ Installers for Medulla, a personal AI with a memory of its own. Each release has
 The app checks here for new versions and updates itself. This repository holds only the installers:
 the code is kept elsewhere, and everything the app remembers stays on the computer it runs on.
 
-It needs [Claude Code](https://claude.com/claude-code) and [Codex](https://developers.openai.com/codex/cli) signed in on the same computer, and git.
+It needs [Claude Code](https://claude.com/claude-code) and [Codex](https://developers.openai.com/codex/cli) signed in on the same computer. Everything else comes with it.
